@@ -1,6 +1,4 @@
-// Comment added to 'myBranch'
-
-// 2nd comment added to 'myBranch'
+// Edit 'secondBranch'
 
 import { SearchFor, SelectFirstSuggestionAndProduct, SelectSizeAndAddToBag } from '../../../cypress/integration/tutorial/POM/myFirstPage'
 
