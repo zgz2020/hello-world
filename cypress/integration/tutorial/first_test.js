@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 // Edit 'secondBranch'
 
 =======
 >>>>>>> commit on my branch
+=======
+>>>>>>> 564dccca38116323f2c2dc365a747ac4b9972c92
 import { SearchFor, SelectFirstSuggestionAndProduct, SelectSizeAndAddToBag } from '../../../cypress/integration/tutorial/POM/myFirstPage'
 
 describe('My First Test', function() {
