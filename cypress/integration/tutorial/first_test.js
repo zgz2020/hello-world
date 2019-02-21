@@ -1,3 +1,5 @@
+// Comment added to 'myBranch'
+
 import { SearchFor, SelectFirstSuggestionAndProduct, SelectSizeAndAddToBag } from '../../../cypress/integration/tutorial/POM/myFirstPage'
 
 const locale = ['/en-gb','/en-it']
