@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-// Edit 'secondBranch'
+// Edit 'fridayBranch'
 
 =======
 >>>>>>> commit on my branch
